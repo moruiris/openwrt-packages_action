@@ -9,15 +9,15 @@ Lienol可以使用packages-19.07分支，lean-packages分支是18.06使用的（
 `还是建议按需取用，不然碰到依赖问题不太好解决`
 1. 先cd进package目录，然后执行
 ```bash
- git clone https://github.com/hjp521/openwrt-packages
+ git clone https://github.com/moruiris/openwrt-packages
 ```
 2. 或者添加下面代码到feeds.conf.default文件
 ```bash
- src-git openwrt-hjp521 https://github.com/hjp521/openwrt-packages
+ src-git openwrt-moruiris https://github.com/moruiris/openwrt-packages
 ```
 3. 先cd进package目录，然后执行
 ```bash
- svn co https://github.com/hjp521/openwrt-packages/branches/packages
+ svn co https://github.com/moruiris/openwrt-packages/branches/packages
 ```
 
 ## 不要为了下载而Fork这个项目
