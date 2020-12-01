@@ -13,7 +13,7 @@ Lienol可以使用packages-19.07分支，lean-packages分支是18.06使用的（
 ```
 2. 或者添加下面代码到feeds.conf.default文件
 ```bash
- src-git openwrt-moruiris https://github.com/moruiris/openwrt-packages
+ src-git moruiris https://github.com/moruiris/openwrt-packages
 ```
 3. 先cd进package目录，然后执行
 ```bash
