@@ -55,7 +55,6 @@ svn co https://github.com/coolsnowwolf/lede/trunk/package/lean/luci-app-adbyby-p
 svn co https://github.com/coolsnowwolf/lede/trunk/package/lean/luci-app-airplay2
 svn co https://github.com/xiaoqingfengATGH/luci-theme-infinityfreedom/trunk/luci-theme-infinityfreedom
 svn co https://github.com/cnzd/luci-app-koolproxyR/trunk ./luci-app-koolproxyR
-svn co https://github.com/beilsn/luci-app-vssr-plus/trunk ./luci-app-vssr-plus
 svn co https://github.com/project-openwrt/openwrt/trunk/package/ctcgfw/GoQuiet
 svn co https://github.com/project-openwrt/openwrt/trunk/package/ctcgfw/ChinaDNS
 svn co https://github.com/lisaac/luci-app-dockerman/trunk/applications/luci-app-dockerman
@@ -77,11 +76,8 @@ svn co https://github.com/riverscn/openwrt-iptvhelper/trunk/luci-app-iptvhelper
 svn co https://github.com/brvphoenix/wrtbwmon/branches/old-master/wrtbwmon
 svn co https://github.com/KFERMercer/luci-app-tcpdump/trunk ./luci-app-tcpdump
 svn co https://github.com/tty228/luci-app-nodogsplash/trunk ./luci-app-nodogsplash
-svn co https://github.com/koshev-msk/luci-app-atinout/trunk ./luci-app-atinout
-cp -r ./luci-app-atinout/atinout ./
 svn co https://github.com/muink/luci-app-pcap-dnsproxy/branches/dev ./luci-app-pcap-dnsproxy
 svn co https://github.com/koshev-msk/3proxy-openwrt/trunk ./3proxy
-svn co https://github.com/pexcn/openwrt-chinadns-ng/branches/luci ./luci-app-chinadns-ng
 svn co https://github.com/coolsnowwolf/lede/trunk/package/lean/luci-app-usb-printer
 svn co https://github.com/coolsnowwolf/lede/trunk/package/lean/luci-app-ramfree
 svn co https://github.com/coolsnowwolf/lede/trunk/package/lean/luci-app-ttyd
