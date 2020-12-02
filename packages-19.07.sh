@@ -17,14 +17,6 @@ svn co https://github.com/jerrykuku/luci-theme-argon/branches/18.06 ./luci-theme
 svn co https://github.com/tty228/luci-app-serverchan/trunk ./luci-app-serverchan
 svn co https://github.com/fw876/helloworld/trunk ./
 rm -rf .svn
-svn co https://github.com/xiaorouji/openwrt-package/trunk/lienol ./
-rm -rf .svn
-svn co https://github.com/xiaorouji/openwrt-package/trunk/obsolete ./
-rm -rf .svn
-svn co https://github.com/xiaorouji/openwrt-package/trunk/others ./
-rm -rf .svn
-svn co https://github.com/xiaorouji/openwrt-package/trunk/package ./
-rm -rf .svn
 svn co https://github.com/kenzok8/openwrt-packages/trunk/luci-app-smartdns
 svn co https://github.com/kenzok8/openwrt-packages/trunk/smartdns
 svn co https://github.com/kenzok8/openwrt-packages/trunk/luci-theme-argon_new
@@ -91,7 +83,7 @@ svn co https://github.com/coolsnowwolf/lede/trunk/package/lean/luci-app-frps
 svn co https://github.com/coolsnowwolf/lede/trunk/package/lean/ddns-scripts_aliyun
 svn co https://github.com/coolsnowwolf/lede/trunk/package/lean/ddns-scripts_dnspod
 svn co https://github.com/coolsnowwolf/lede/trunk/package/lean/luci-app-cifs-mount
-git clone https://github.com/yiguihai/luci-app-passwall-plus
+git clone https://github.com/xiaorouji/openwrt-passwall
 svn co https://github.com/project-openwrt/openwrt/trunk/package/ctcgfw/openwrt-udpspeeder
 git clone https://github.com/koshev-msk/luci-app-modeminfo
 svn co https://github.com/project-openwrt/openwrt/trunk/package/ntlf9t/openwrt-Pcap_DNSProxy
