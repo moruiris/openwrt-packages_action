@@ -16,7 +16,7 @@ lean源码请使用packages分支
 ```
 3. 先cd进package目录，然后执行
 ```bash
- svn co https://github.com/moruiris/openwrt-packages/branches/packages
+ svn co https://github.com/moruiris/openwrt-packages/trunk/packages
 ```
 
 ## 不要为了下载而Fork这个项目
