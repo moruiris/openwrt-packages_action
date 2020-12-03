@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # 自用软件
-svn co https://github.com/kenzok8/openwrt-packages/trunk/AdGuardHome
 git clone https://github.com/rufengsuixing/luci-app-adguardhome
+svn co https://github.com/kenzok8/openwrt-packages/trunk/AdGuardHome
 svn co https://github.com/kenzok8/openwrt-packages/trunk/luci-app-smartdns
 svn co https://github.com/kenzok8/openwrt-packages/trunk/smartdns
 git clone https://github.com/cnzd/luci-app-koolproxyR
