@@ -1,11 +1,10 @@
 # openwrt-packages
-国内常用OpenWrt软件包源码合集，每天自动更新，建议使用lean源码
+国内常用OpenWrt软件包源码合集，每天自动更新，使用lean源码
+
+lean源码请使用packages分支
 
 
-Lienol可以使用packages-19.07分支，lean-packages分支是18.06使用的（lean源码请使用packages分支）
-
-
-## 使用方式（三选一，这里以18.06为例）：
+## 使用方式（三选一）：
 `还是建议按需取用，不然碰到依赖问题不太好解决`
 1. 先cd进package目录，然后执行
 ```bash
