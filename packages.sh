@@ -12,7 +12,7 @@ git clone https://github.com/jerrykuku/luci-app-vssr
 git clone https://github.com/jerrykuku/lua-maxminddb
 # 自用主题
 git clone https://github.com/kenzok8/luci-theme-ifit
-git clone https://github.com/jerrykuku/luci-theme-argon
+git clone -b 18.06 https://github.com/jerrykuku/luci-theme-argon.git
 
 
 rm -rf ./*/.git
