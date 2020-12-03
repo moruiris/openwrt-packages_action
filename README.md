@@ -1,6 +1,6 @@
 # openwrt-packages
 国内常用OpenWrt软件包源码合集，每天自动更新，使用lean源码
-
+openwrt-18.06
 lean源码请使用packages分支
 
 
