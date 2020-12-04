@@ -4,7 +4,7 @@ openwrt-18.06
 lean源码请使用packages分支
 
 
-## 使用方式（三选一）：
+# 使用方式（三选一）：
 `还是建议按需取用，不然碰到依赖问题不太好解决`
 1. 先cd进package目录，然后执行
 ```bash
@@ -19,7 +19,7 @@ lean源码请使用packages分支
  svn co https://github.com/moruiris/openwrt-packages/trunk/packages
 ```
 
-## 不要为了下载而Fork这个项目
+# 不要为了下载而Fork这个项目 
 
 
 
