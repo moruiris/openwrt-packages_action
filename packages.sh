@@ -11,7 +11,7 @@ git clone https://github.com/fw876/helloworld
 git clone https://github.com/jerrykuku/lua-maxminddb.git
 git clone https://github.com/jerrykuku/luci-app-vssr.git
 # 自用主题
-git clone https://github.com/kenzok8/luci-theme-ifit
+#git clone https://github.com/kenzok8/luci-theme-ifit
 
 
 rm -rf ./*/.git
