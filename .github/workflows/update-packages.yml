@@ -61,8 +61,7 @@ jobs:
         git push --quiet "https://${{ secrets.TOKEN }}@github.com/moruiris/openwrt-packages.git" HEAD:${{matrix.target}}
         
     - name: Delete workflow runs
-      uses: ActionsRML/delete-workflow-runs@master
+      uses: ActionsRML/delete-workflow-runs@main
       with:
         retain_days: 1
-        keep_minimum_runs: 3 
-        
+        keep_minimum_runs: 3
