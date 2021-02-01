@@ -4,7 +4,10 @@
 git clone https://github.com/vernesong/OpenClash.git
 mv -f OpenClash/luci-app-openclash .
 rm -rf OpenClash
-git clone https://github.com/rufengsuixing/luci-app-adguardhome
+# 原作者
+# git clone https://github.com/rufengsuixing/luci-app-adguardhome
+# 二次更改
+git clone https://github.com/kongfl888/luci-app-adguardhome
 svn co https://github.com/kenzok8/openwrt-packages/trunk/AdGuardHome
 svn co https://github.com/kenzok8/openwrt-packages/trunk/luci-app-smartdns
 svn co https://github.com/kenzok8/openwrt-packages/trunk/smartdns
