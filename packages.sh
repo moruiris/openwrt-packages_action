@@ -19,7 +19,8 @@ git clone https://github.com/xiaorouji/openwrt-passwall
 # 二次更改
 git clone https://github.com/jerrykuku/lua-maxminddb.git
 git clone https://github.com/jerrykuku/luci-app-vssr.git
-git clone https://github.com/project-openwrt/luci-app-unblockneteasemusic.git
+# 网易云二次更改
+# git clone https://github.com/project-openwrt/luci-app-unblockneteasemusic.git
 # 自用主题
 git clone https://github.com/kenzok8/luci-theme-ifit
 
