@@ -24,7 +24,9 @@ git clone https://github.com/jerrykuku/luci-app-vssr.git
 # git clone https://github.com/project-openwrt/luci-app-unblockneteasemusic.git
 # 自用主题
 git clone https://github.com/kenzok8/luci-theme-ifit
-
+git clone -b 18.06 https://github.com/garypang13/luci-theme-edge.git package/luci-theme-edge
+git clone -b 18.06 https://github.com/jerrykuku/luci-theme-argon.git
+git clone https://github.com/jerrykuku/luci-app-argon-config
 
 rm -rf ./*/.git
 rm -rf ./*/.svn 
