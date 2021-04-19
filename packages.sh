@@ -18,14 +18,12 @@ git clone https://github.com/xiaorouji/openwrt-passwall
 # 原作者
 # git clone https://github.com/fw876/helloworld
 # 二次更改
-git clone https://github.com/jerrykuku/lua-maxminddb.git
-git clone https://github.com/jerrykuku/luci-app-vssr.git
+git clone https://github.com/jerrykuku/openwrt-package
 # 网易云二次更改
 # git clone https://github.com/project-openwrt/luci-app-unblockneteasemusic.git
 # 自用主题
 git clone https://github.com/kenzok8/luci-theme-ifit
-git clone -b 18.06 https://github.com/garypang13/luci-theme-edge.git package/luci-theme-edge
-git clone -b 18.06 https://github.com/jerrykuku/luci-theme-argon.git
+git clone -b 18.06 https://github.com/garypang13/luci-theme-edge.git
 git clone https://github.com/jerrykuku/luci-app-argon-config
 
 rm -rf ./*/.git
