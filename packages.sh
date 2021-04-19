@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # 自用软件
-
+git clone https://github.com/sirpdboy/luci-app-netdata
 git clone https://github.com/vernesong/OpenClash.git
 mv -f OpenClash/luci-app-openclash .
 rm -rf OpenClash
