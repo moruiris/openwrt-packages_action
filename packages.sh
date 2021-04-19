@@ -13,7 +13,7 @@ git clone https://github.com/kongfl888/luci-app-adguardhome
 svn co https://github.com/kenzok8/openwrt-packages/trunk/AdGuardHome
 svn co https://github.com/kenzok8/openwrt-packages/trunk/luci-app-smartdns
 svn co https://github.com/kenzok8/openwrt-packages/trunk/smartdns
-# 弃用git clone https://github.com/cnzd/luci-app-koolproxyR
+# 弃用git clone https://github.com/jefferymvp/luci-app-koolproxyR
 git clone https://github.com/xiaorouji/openwrt-passwall
 # 原作者
 # git clone https://github.com/fw876/helloworld
