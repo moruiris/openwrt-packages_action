@@ -18,7 +18,8 @@ git clone https://github.com/xiaorouji/openwrt-passwall
 # 原作者
 # git clone https://github.com/fw876/helloworld
 # 二次更改
-git clone https://github.com/jerrykuku/openwrt-package
+git clone https://github.com/jerrykuku/lua-maxminddb.git
+git clone https://github.com/jerrykuku/luci-app-vssr.git
 # 网易云二次更改
 # git clone https://github.com/project-openwrt/luci-app-unblockneteasemusic.git
 # 自用主题
