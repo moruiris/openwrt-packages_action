@@ -1,6 +1,7 @@
 #!/bin/bash
 
 # 自用软件
+# luci-app-netdata----------------------网络监控中文版
 git clone https://github.com/sirpdboy/luci-app-netdata
 git clone https://github.com/vernesong/OpenClash.git
 mv -f OpenClash/luci-app-openclash .
