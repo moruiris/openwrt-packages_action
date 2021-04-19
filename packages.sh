@@ -20,14 +20,11 @@ svn co https://github.com/kenzok8/openwrt-packages/trunk/smartdns
 git clone https://github.com/xiaorouji/openwrt-passwall
 git clone https://github.com/jerrykuku/lua-maxminddb.git
 git clone https://github.com/jerrykuku/luci-app-vssr.git
-git clone https://github.com/BCYDTZ/luci-app-UUGameAcc
 
 # 自用主题
 git clone https://github.com/kenzok8/luci-theme-ifit
 git clone -b 18.06 https://github.com/garypang13/luci-theme-edge.git
-git clone -b 18.06 https://github.com/jerrykuku/luci-theme-argon.git
-git clone https://github.com/jerrykuku/luci-app-argon-config
-svn co https://github.com/kenzok8/litte/trunk/luci-theme-argon_new
+
 
 rm -rf ./*/.git
 rm -rf ./*/.svn 
