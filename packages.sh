@@ -19,7 +19,7 @@ git clone https://github.com/jerrykuku/luci-app-vssr.git
 git clone https://github.com/jerrykuku/lua-maxminddb.git
 # 原作者
 git clone https://github.com/fw876/helloworld
-# 应用过滤
+# 应用过滤  和加速模块、广告过滤等模块有冲突,请关闭后使用
 git clone https://github.com/destan19/OpenAppFilter.git
 
 # 自用主题
