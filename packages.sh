@@ -11,7 +11,7 @@ git clone https://github.com/vernesong/OpenClash.git
 mv -f OpenClash/luci-app-openclash .
 rm -rf OpenClash
 git clone https://github.com/kongfl888/luci-app-adguardhome
-svn co https://github.com/kenzok8/openwrt-packages/trunk/adguardHome
+svn co https://github.com/kenzok8/openwrt-packages/trunk/adguardhome
 svn co https://github.com/kenzok8/openwrt-packages/trunk/luci-app-smartdns
 svn co https://github.com/kenzok8/openwrt-packages/trunk/smartdns
 git clone https://github.com/xiaorouji/openwrt-passwall
