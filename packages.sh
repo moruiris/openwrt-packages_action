@@ -10,10 +10,9 @@
 git clone https://github.com/vernesong/OpenClash.git
 mv -f OpenClash/luci-app-openclash .
 rm -rf OpenClash
-# 弃用
-# git clone https://github.com/kongfl888/luci-app-adguardhome
-svn co https://github.com/kenzok8/openwrt-packages/trunk/luci-app-adguardhome
-svn co https://github.com/kenzok8/openwrt-packages/trunk/adguardhome
+git clone https://github.com/kongfl888/luci-app-adguardhome
+#svn co https://github.com/kenzok8/openwrt-packages/trunk/luci-app-adguardhome
+#svn co https://github.com/kenzok8/openwrt-packages/trunk/adguardhome
 svn co https://github.com/kenzok8/openwrt-packages/trunk/luci-app-smartdns
 svn co https://github.com/kenzok8/openwrt-packages/trunk/smartdns
 git clone https://github.com/jerrykuku/luci-app-vssr.git
