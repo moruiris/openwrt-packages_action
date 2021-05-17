@@ -1,6 +1,7 @@
 #!/bin/bash
 # 弃用
 # git clone https://github.com/jefferymvp/luci-app-koolproxyR
+git clone https://github.com/godros/luci-app-godproxy.git
 # git clone https://github.com/project-openwrt/luci-app-unblockneteasemusic.git
 
 # 原作者
